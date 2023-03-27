@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-auth-background {
+  background: linear-gradient(rgb(0, 34, 66), rgba(0, 66, 128, 0.562));
+}
