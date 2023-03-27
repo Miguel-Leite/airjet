@@ -36,7 +36,7 @@
                 placeholder="Sua senha de usuário"
                 class="p-2.5 mt-4 w-full rounded outline-0 border-zinc-400 border-[1px] focus:border-1 focus:outline-0"
               />
-              <p class="mt-2"><a href="#" class="text-blue-800 text-sm">Esqueceste a senha?</a></p>
+              <p class="mt-2"><a href="{{ route("pages.forgot") }}" class="text-blue-800 text-sm">Esqueceste a senha?</a></p>
             </div>
           </div>
           <div class="flex flex-col gap-4 mt-8">
